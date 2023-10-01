@@ -4,7 +4,6 @@
 <p align="left">  
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
  <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
- <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px', width="40px"/> </a>
  <a href="https://vuejs.org/" target="_blank"> <img src="https://v2.vuejs.org/images/logo.svg" height='40px', width="40px"/> </a>
  <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
 </p>
